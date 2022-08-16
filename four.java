@@ -1,0 +1,8 @@
+public static main
+
+{
+
+
+}
+
+
